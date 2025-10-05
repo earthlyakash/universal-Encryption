@@ -1,0 +1,1 @@
+var binFile = new File("D:/PythonProjects/Universal Code Encryption/Only Binery System/text.bin");
